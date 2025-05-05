@@ -1,0 +1,748 @@
+{
+    "skills" : [
+        {
+            "name" : "Mobile Application Dev.",
+            "data" : [
+                {
+                    "text" : "flutter",
+                    "image" : "flutter-icon.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "dart",
+                            "image" : "dart-light.png",
+                            "link" : "https://dart.dev/"
+                        },
+                        {
+                            "name" : "provider package",
+                            "link" : "https://pub.dev/packages/provider",
+                            "image" : "flutter-light.png"
+                        },
+                        {
+                            "name" : "flutter-firebase",
+                            "image" : "firebase-icon.png"
+                        },
+                        {
+                            "name" : "google maps and other apis",
+                            "image" : "google-icon.png"
+                        },
+                        {
+                            "name" : "get-x library",
+                            "link" : "https://pub.dev/packages/get",
+                            "image" : "get-x.png"
+                        },
+                        {
+                            "name" : "bloc architecture",
+                            "image" : "bloc-icon.png",
+                            "link" : "https://pub.dev/packages/flutter_bloc"
+                            
+                        }
+
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "plant disease detector",
+                            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
+                            "image" : "plant.png"
+                        },
+                        {
+                            "name" : "student-faculty interaction system",
+                            "link" : "https://github.com/viren-joshi/student-faculty-interaction-system",
+                            "image" : "student-faculty-interaction.png"
+                        },
+                        {
+                            "name" : "nirbhaya : women safety app",
+                            "image" : "safety.png"
+                        },
+                        {
+                            "name" : "plant-it",
+                            "link" : "https://github.com/viren-joshi/plant-it",
+                            "image" : "plant.png"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "android",
+                    "image" : "android.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "kotlin",
+                            "image" : "kotlin-light.png"
+                        },
+                        {
+                            "name" : "jetpack compose",
+                            "image" : "jetpack-compose.png"
+                        },
+                        {
+                            "name" : "retrofit",
+                            "image" : "retrofit.png"
+                        },
+                        {
+                            "name" : "java",
+                            "image" : "java.png"
+                        },
+                        {
+                            "name" : "volley library",
+                            "image" : "volley-library.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "vax-note",
+                            "link" : "https://github.com/viren-joshi/VaxNote",
+                            "image" : "injection.png"
+                        }, 
+                        {
+                            "name" : "momentreely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name" : "Programming Languages",
+            "data" : [
+                {
+                    "text" : "c",
+                    "image" : "c.png",
+                    "since" : 2018
+                },
+                {
+                    "text" : "c++",
+                    "image" : "cpp.png",
+                    "since" : 2018,
+                    "worked_with" : [
+                        {
+                            "name" : "data structures & algorithms",
+                            "image" : "data-structures.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "python",
+                    "image" : "python.png",
+                    "since" : 2020,
+                    "worked_with" : [
+                        {
+                            "name" : "flask",
+                            "image" : "flask.png"
+                        },
+                        {
+                            "name" : "django",
+                            "image" : "django.png"
+                        },
+                        {
+                            "name" : "selenium",
+                            "image" : "selenium.png"
+                        },
+                        {
+                            "name" : "transformers",
+                            "image" : "python-light.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "param-linter",
+                            "link" : "https://github.com/viren-joshi/ParamLinter",
+                            "image" : "param-linter.png"
+                        },
+                        {
+                            "name" : "deep learning based automated question generation",
+                            "image" : "automated-question.png"
+                        },
+                        {
+                            "name" : "momentreely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "dart",
+                    "image" : "dart.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "flutter",
+                            "image" : "flutter-light.png"
+                        },
+                        {
+                            "name" : "android",
+                            "image" : "android-light.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "kotlin",
+                    "image" : "kotlin-dark.png",
+                    "since" : 2023,
+                    "worked_with" : [
+                        {
+                            "name" : "android",
+                            "image" : "android-light.png"
+                        },
+                        {
+                            "name" : "retrofit",
+                            "image" : "retrofit.png"
+                        },
+                        {
+                            "name" : "jetpack compose",
+                            "image" : "jetpack-compose.png"
+                        }
+                    ],
+                    "projects"  : [
+                        {
+                            "name" : "momentreely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "java",
+                    "image" : "java-dark.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "android",
+                            "image" : "android-light.png"
+                        },
+                        {
+                            "name" : "springboot",
+                            "image" : "springboot.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "vax-note",
+                            "link" : "https://github.com/viren-joshi/VaxNote",
+                            "image" : "injection.png"
+                        },
+                        {
+                            "name" : "Software Vizualizer - SoftViz",
+                            "link" : "https://github.com/viren-joshi/software-visualizer",
+                            "image" : "soft-viz.png"
+                        }
+                    ]
+                },
+                
+                {
+                    "text" : "php (backend)",
+                    "image" : "php-dark.png",
+                    "since" : 2021,
+                    "projects" : [
+                        {
+                            "name" : "vax-note",
+                            "link" : "https://github.com/viren-joshi/VaxNote",
+                            "image" : "injection.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "Cloud",
+            "data" : [
+                {
+                    "text" : "firebase",
+                    "image" : "firebase-icon.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "firestore database",
+                            "image" : "firestore.png"
+                        },
+                        {
+                            "name" : "realtime database",
+                            "image" : "realtime-database.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "plant disease detector",
+                            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
+                            "image" : "plant.png"
+                        },
+                        {
+                            "name" : "nirbhaya : women safety app",
+                            "image" : "safety.png"
+                        },
+                        {
+                            "name" : "plant-it",
+                            "link" : "https://github.com/viren-joshi/plant-it",
+                            "image" : "plant.png"
+                        },
+                        {
+                            "name" : "industrial safety system",
+                            "link" : "https://github.com/viren-joshi/Safety-Net",
+                            "image" : "industrial-safety-dark.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "digital ocean",
+                    "image" : "digital-ocean.png",
+                    "since" : 2024,
+                    "description" : "Managed virtual machines and cloud services on Digital Ocean for hosting application and services.",
+                    "projects" : [
+                        {
+                            "name" : "malware minder",
+                            "link" : "",
+                            "image" : "malware-minder.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "docker",
+                    "image" : "docker-mark-blue.png",
+                    "since" : 2024,
+                    "description" : "Used docker for containerization of applications and services for deployment and testing.",
+                    "projects" : [
+                        {
+                            "name" : "malware minder",
+                            "link" : "",
+                            "image" : "malware-minder.png"
+                        }
+                    ]
+                }, 
+                {
+                    "text" : "aws",
+                    "image" : "aws.png",
+                    "since" : 2025,
+                    "description" : "Used AWS for cloud services and deployment of applications and services.",
+                    "worked_with" : [
+                        {
+                            "name" : "aws s3",
+                            "image" : "aws-s3.png"
+                        },
+                        {
+                            "name" : "aws ec2",
+                            "image" : "aws-ec2.png"
+                        },
+                        {
+                            "name" : "aws rds",
+                            "image" : "aws-rds.png"
+                        },
+                        {
+                            "name" : "cloud formation",
+                            "image" : "cloudformation.png"
+                        }, 
+                        {
+                            "name" : "aws lambda",
+                            "image" : "aws-lambda.png"
+                        },
+                        {
+                            "name" : "amazon dynamo db",
+                            "image" : "aws-dynamo-db.png"
+                        },
+                        {
+                            "name" : "aws sns",
+                            "image" : "aws-sns.png"
+                        }   
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "momentreely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "kubernetes",
+                    "image" : "kubernetes.png",
+                    "since" : 2025,
+                    "description" : "Used kubernetes for container orchestration and management of applications and services."
+                }
+            ]
+        },
+        {
+            "name" : "Security",
+            "data" : [
+                {
+                    "text" : "linux",
+                    "image" : "linux-dark.png",
+                    "since" : 2022,
+                    "worked_with" : [
+                        {
+                            "name" : "kali linux",
+                            "image" : "kali-linux.png"
+                        },
+                        {
+                            "name" : "ubuntu",
+                            "image" : "ubuntu.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "burp suite",
+                    "image" : "burp-suite.png",
+                    "since" : 2022,
+                    "description" : "Used burpsuite for web application penetration testing in labs, CTFs and bug bounties."
+                },
+                {
+                    "text" : "metasploit",
+                    "image" : "metasploit.png",
+                    "since" : 2023,
+                    "description" : "Used metasploit for penetration testing and exploitation of vulnerabilities in CTFs and learning labs."
+                },
+                {
+                    "text" : "bettercap",
+                    "image" : "bettercap.png",
+                    "since" : 2023,
+                    "description" : "Used bettercap for learning & implementing network security for learning labs and bug bounties."
+                },
+                {
+                    "text" : "sqlmap",
+                    "image" : "sql-map.png",
+                    "since" : 2023,
+                    "description" : "Used sqlmap for automated SQL injection and database takeover in learning labs and bug bounties."
+                },
+                {
+                    "text" : "nmap",
+                    "image" : "nmap.png",
+                    "since" : 2020,
+                    "description" : "Used nmap for network scanning and enumeration in bug bounties, learning labs and CTFs."
+                }
+                
+            ]
+        },
+        {
+            "name" : "Web Development",
+            "data" : [
+                {
+                    "text" : "html",
+                    "image" : "html.png",
+                    "since" : 2018,
+                    "worked_with" : [
+                        {
+                            "name" : "bootstrap",
+                            "image" : "bootstrap.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "automated question generation system",
+                            "image" : "automated-question.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "css",
+                    "image" : "css.png",
+                    "since" : 2018,
+                    "worked_with" : [
+                        {
+                            "name" : "bootstrap",
+                            "image" : "bootstrap.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "automated question generation system",
+                            "image" : "automated-question.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "javascript",
+                    "image" : "javascript.png",
+                    "since" : 2020,
+                    "projects" : [
+                        {
+                            "name" : "automated question generation system",
+                            "image" : "automated-question.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "experience" : [
+        {
+            "date": "Dec 2022 - Feb 2023",
+            "title": "Software Developer Intern",
+            "organization": "WYLD",
+            "location": "Mumbai, India",
+            "skills" : [
+                {
+                    "name" : "flutter",
+                    "image" : "flutter-icon.png"
+                },
+                {
+                    "name" : "dart",
+                    "image" : "dart.png"
+                },
+                {
+                    "name" : "get-x",
+                    "image" : "get-x.png"
+                }
+            ],
+            "description" : [
+                "Developed Android and iOS mobile apps using Flutter and Dart.",
+                "Managed app state using the GetX Library following the MVC paradigm.",
+                "Collaborated with the team on design, development, and integration of mobile apps.",
+                "Reduced code debt by 30% through effective code management and maintenance.",
+                "Contributed to successful application deployment.",
+                "Enhanced app functionality through feature improvements and bug fixes."
+            ]
+        },
+        {
+            "date": "Jan 2022 - April 2022",
+            "title": "Full-Stack Software Developer",
+            "organization": "Mindstein Software",
+            "location": "Remote",
+            "skills" : [
+                {
+                    "name" : "flutter",
+                    "image" : "flutter-icon.png"
+                },
+                {
+                    "name" : "dart",
+                    "image" : "dart.png"
+                },
+                {
+                    "name" : "MySQL",
+                    "image" : "mysql.png"
+                },
+                {
+                    "name" : "php",
+                    "image" : "php-dark.png"
+                }
+            ],
+            "description" : [
+                "Developed a full-featured Android application using Flutter from scratch.",
+                "Utilized Provider Package for efficient state management in the Flutter application.",
+                "Designed and implemented APIs using PHP for backend integration.",
+                "Managed and maintained MySQL databases for application data storage and retrieval."
+            ]
+        },
+        {
+            "date" : "Nov 2021 - July 2022",
+            "title" : "Technical Team Member",
+            "organization" : "Google Developer Students Club, KJSIT",
+            "location" : "Mumbai, India",
+            "skills" : [
+                {
+                    "name" : "Communication",
+                    "image" : "communication.png" 
+                },
+                {
+                    "name" : "Event Management",
+                    "image" : "event-management.png"
+                },
+                {
+                    "name" : "Collaborative Problem Solving",
+                    "image" : "event-management.png"
+                }
+            ],
+            "description" : [
+                "Contributed to the technical execution and support of GDSC events",
+                "Assisted in the planning, management, and organization of Capture The Flag (CTF) competitions.",
+                "Collaborated with team members to solve technical problems and provide solutions."
+            ]
+        },
+        {
+            "date" : "July 2022 - Aug 2022",
+            "title" : "Flutter Developer",
+            "organization" : "Uipropitome Tech",
+            "location" : "Remote",
+            "skills" : [
+                {
+                    "name" : "flutter",
+                    "image" : "flutter-icon.png"
+                },
+                {
+                    "name" : "dart",
+                    "image" : "dart.png"
+                },
+                {
+                    "name" : "firebase",
+                    "image" : "firebase-icon.png"
+                },
+                {
+                    "name" : "google-apis",
+                    "image" : "google-icon.png"
+                }
+            ],
+            "description" : [
+                "Developed a custom mobility solution using Flutter for booking cabs, delivery vehicles, and other transportation services.",
+                "Integrated Google APIs, including Maps and MapSearch, into the system.",
+                "Managed application state using the Provider Library."
+            ]
+        },
+        {
+            "date" : "Sept 2022 - Nov 2022",
+            "title" : "Web-Application Pentester",
+            "organization" : "VIEH Group",
+            "location" : "Remote",
+            "skills" : [
+                {
+                    "name" : "python",
+                    "image" : "python.png"
+                },
+                {
+                    "name" : "selenium",
+                    "image" : "selenium.png"
+                },
+                {
+                    "name" : "kali linux",
+                    "image" : "kali-linux.png"
+                },
+                {
+                    "name" : "burp suite",
+                    "image" : "burp-suite.png"
+                },
+                {
+                    "name" : "nmap",
+                    "image" : "nmap.png"
+                },
+                {
+                    "name" : "sql-map",
+                    "image" : "sql-map.png"
+                }
+            ],
+            "description" : [
+                "Conducted Web-Penetration Testing using popular tools.",
+                "Developed an automation tool for Web Application Penetration Testing (WAPT).",
+                "Enhanced initial reconnaissance efficiency using Python and Selenium."
+            ]
+        }
+    ],
+    "projects" : [
+        {
+            "name" : "vax-note",
+            "link" : "https://github.com/viren-joshi/VaxNote",
+            "image" : "injection-dark.png",
+            "timeline" : "September 2021 - November 2021",
+            "description" : "A vaccination management system that allows users to store and manage their vaccination records digitally. The system also provides users with reminders for upcoming vaccinations and appointments. The system was developed using PHP and MySQL for backend services and Android (Java) for the front-end application."
+        },
+        {
+            "name" : "student-faculty interaction system",
+            "link" : "https://github.com/viren-joshi/student-faculty-interaction-system",
+            "image" : "student-faculty-interaction-dark.png",
+            "timeline" : "January 2022 - March 2021",
+            "description" : "A mobile application that facilitates communication between students and faculty members. The application allows students to ask questions and get annoucements from faculty members. The application was developed using Flutter and Firebase for backend services." 
+        },
+        {
+            "name" : "plant disease detector application",
+            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
+            "image" : "plant-disease-image.png",
+            "timeline" : "March 2023",
+            "description" : "Developed an Android app that identifies plant diseases from leaf images. Users receive disease diagnosis, remedies, and preventive measures. Leveraged Flutter for the front-end, Python for AI-ML models and APIs, and Firebase for image storage."
+        },
+        {
+            "name" : "automated question generation system",
+            "link" : "",
+            "image" : "automated-question-dark.png",
+            "timeline" : "July 2022 - April 2023",
+            "description" : "Developed a web application that generates questions automatically from text. The system employs Google's T5 model algorithms to generate questions and answers. The system was developed using HTML, CSS, JavaScript, Python, and Flask."
+        },
+        {
+            "name" : "param-linter",
+            "link" : "https://github.com/viren-joshi/ParamLinter",
+            "image" : "coding.png",
+            "timeline" : "Spetember 2022 - November 2022",
+            "description" : "An customized automation tool that allows web-application penetration testers to filter and enumerate website endpoints and the respective query parameters as per their requirement. It was developed using Python and Selenium."
+        },
+        {
+            "name" : "plant-it",
+            "link" : "https://github.com/viren-joshi/plant-it",
+            "image" : "plant.png",
+            "timeline" : "February 2023",
+            "description" : "Plant-It serves as a comprehensive resource for gardening enthusiasts and farmers alike. By leveraging geolocation data and climate information, it offers personalized plant recommendations. Whether one seeks agricultural insights or aims to cultivate a small urban garden, Plant-It provides tailored guidance. Together, they explore the world of plants and nurture their green aspirations."
+            
+        },
+        {
+            "name" : "nirbhaya : women safety app",
+            "link" : "",
+            "image": "nirbhaya.png",
+            "timeline" : "April 2023 - July 2023",
+            "description" : "a platform that is designed to help women travel safely and with confidence, by providing a variety of features that promote personal security."
+        },
+        {
+            "name" : "industrial safety system",
+            "link" : "https://github.com/viren-joshi/Safety-Net",
+            "image" : "industrial-safety-dark.png",
+            "timeline" : "August 2023 - October 2023",
+            "description" : "An IOT based safety system that monitors the safety of workers in an industrial environment. The system uses sensors to detect hazardous conditions and alerts the workers and the management. The system was developed using React, Python and Firebase."
+        },
+        {
+            "name" : "malware minder",
+            "link" : "",
+            "image" : "malware-minder.png",
+            "timeline" : "January 2024 - April 2024",
+            "description" : "A malware detection system for android OS, created using machine learning algorithms. It implements ensemble learning to improve accuracy and reduce false positives. The system was developed using Python and Flutter along with cloud services using Digital Ocean."
+        }, 
+        {
+            "name": "Software Vizualizer - SoftViz",
+            "link": "https://github.com/viren-joshi/software-visualizer",
+            "image": "soft-viz.png",
+            "timeline": "October 2024 - December 2024",
+            "description": "A tool that identifies class-level dependencies in JAR files (via inheritance, implementation, and composition) and generates interactive visualizations of software structures. Supports project management by letting users save, reload, and modify dependency analyses for iterative evaluation."
+        },
+        {
+            "name" : "MomentReely",
+            "link" : "https://github.com/viren-joshi/MomentReely",
+            "image" : "momentreely.png",
+            "timeline" : "April 2024",
+            "description" : "It is a photo-sharing application designed to foster personal connections through visual storytelling. It enables users to create accounts, connect with friends, and share photos seamlessly within the platform. The resoning behind this project was not to create a photo sharing application, but rather learn AWS Cloud & Kotlin Mobile Application Development."
+        }
+    ],
+    "certifications" : [
+        {
+            "name" : "Google Cybersecurity Professional.",
+            "image" : "google-cyber-certificate.png",
+            "credential" : "https://www.credly.com/badges/3f8f6dcb-162d-4732-a5ef-2e5b85e71514"
+        },
+        {
+            "name" : "AWS Academy Graduate - AWS Academy Cloud Foundations",
+            "image" : "cloud-foundations.png",
+            "credential" : "https://www.credly.com/badges/008b3291-f17f-4b10-b29d-873e936cda4c"
+        },
+        {
+            "name" : "The Bits and Bytes of Computer Networking",
+            "image" : "computer-network-certificate.jpeg",
+            "credential" : "https://coursera.org/share/36e5007e85e56a444811cc603db9cf0b"
+        },
+        {
+            "name" : "Learn Ethical Hacking: Beginner to Advanced",
+            "image" : "ethical-hacking-certificate-udemy.jpg",
+            "credential" : "https://www.udemy.com/certificate/UC-0217f640-1bee-4c31-a525-f4f79e0942ce/"
+        },
+        {
+            "name" : "Flutter App Development Course with Dart",
+            "image" : "flutter-certificate-udemy.jpg",
+            "credential" : "https://www.udemy.com/certificate/UC-f0b96033-ef97-4477-8e46-d40e83db4743/"
+        },
+        {
+            "name" : "Fundamentals of Artificial Intelligence and Machine Learning",
+            "image" : "vois-certificate.png",
+            "credential" : ""
+        }
+    ],
+    "education" : [
+        {
+            "degree": "Masters in Applied Computer Science (MACS)",
+            "branch": "Faculty of Computer Science",
+            "institution": "Dalhousie University",
+            "location": "Halifax, Nova Scotia",
+            "year": "2024 - 2026"
+        },
+        {
+            "degree" : "Bachelor of Technology (B.Tech)",
+            "branch" : "Computer Engineering",
+            "institution" : "K.J. Somaiya Institute of Technology",
+            "location" : "Mumbai",
+            "year" : "2020 - 2024"
+        }
+    ],
+    "about" : {
+        "quote" : "curiosity drives me,\nmastery guides me",
+        "description": "Hi, I’m Viren Joshi. I build secure, scalable tech solutions across mobile, web, and cloud platforms, driven by curiosity and a passion for cybersecurity. Always learning, always evolving."
+    }
+}
