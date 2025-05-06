@@ -458,6 +458,37 @@
                             "image" : "automated-question.png"
                         }
                     ]
+                },
+                {
+                    "text" : "react",
+                    "image" : "react.png",
+                    "since" : 2023,
+                    "worked_with" :[
+                        {
+                            "name" : "react flow",
+                            "image" : "react-flow.png"
+                        },
+                        {
+                            "name" : "axios",
+                            "image" : "axios.png"
+                        }
+                    ],
+                    "projects" :[
+                        {
+                            "name" : "automated question generation system",
+                            "image" : "automated-question.png"
+                        },
+                        {
+                            "name" : "industrial safety system",
+                            "link" : "https://github.com/viren-joshi/Safety-Net",
+                            "image" : "industrial-safety-dark.png"
+                        },
+                        {
+                            "name" : "Software Vizualizer - SoftViz",
+                            "link" : "https://github.com/viren-joshi/software-visualizer",
+                            "image" : "soft-viz-light.png"
+                        }
+                    ]
                 }
             ]
         }
