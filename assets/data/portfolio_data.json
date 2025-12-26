@@ -1,109 +1,6 @@
 {
     "skills" : [
         {
-            "name" : "Mobile Application Devs",
-            "data" : [
-                {
-                    "text" : "flutter",
-                    "image" : "flutter-icon.png",
-                    "since" : 2021,
-                    "worked_with" : [
-                        {
-                            "name" : "dart",
-                            "image" : "dart-light.png",
-                            "link" : "https://dart.dev/"
-                        },
-                        {
-                            "name" : "provider package",
-                            "link" : "https://pub.dev/packages/provider",
-                            "image" : "flutter-light.png"
-                        },
-                        {
-                            "name" : "flutter-firebase",
-                            "image" : "firebase-icon.png"
-                        },
-                        {
-                            "name" : "google maps and other apis",
-                            "image" : "google-icon.png"
-                        },
-                        {
-                            "name" : "get-x library",
-                            "link" : "https://pub.dev/packages/get",
-                            "image" : "get-x.png"
-                        },
-                        {
-                            "name" : "bloc architecture",
-                            "image" : "bloc-icon.png",
-                            "link" : "https://pub.dev/packages/flutter_bloc"
-                            
-                        }
-
-                    ],
-                    "projects" : [
-                        {
-                            "name" : "plant disease detector",
-                            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
-                            "image" : "plant.png"
-                        },
-                        {
-                            "name" : "student-faculty interaction system",
-                            "link" : "https://github.com/viren-joshi/student-faculty-interaction-system",
-                            "image" : "student-faculty-interaction.png"
-                        },
-                        {
-                            "name" : "nirbhaya : women safety app",
-                            "image" : "safety.png"
-                        },
-                        {
-                            "name" : "plant-it",
-                            "link" : "https://github.com/viren-joshi/plant-it",
-                            "image" : "plant.png"
-                        }
-                    ]
-                },
-
-                {
-                    "text" : "android",
-                    "image" : "android.png",
-                    "since" : 2021,
-                    "worked_with" : [
-                        {
-                            "name" : "kotlin",
-                            "image" : "kotlin-light.png"
-                        },
-                        {
-                            "name" : "jetpack compose",
-                            "image" : "jetpack-compose.png"
-                        },
-                        {
-                            "name" : "retrofit",
-                            "image" : "retrofit.png"
-                        },
-                        {
-                            "name" : "java",
-                            "image" : "java.png"
-                        },
-                        {
-                            "name" : "volley library",
-                            "image" : "volley-library.png"
-                        }
-                    ],
-                    "projects" : [
-                        {
-                            "name" : "vax-note",
-                            "link" : "https://github.com/viren-joshi/VaxNote",
-                            "image" : "injection.png"
-                        }, 
-                        {
-                            "name" : "momentreely",
-                            "link" : "https://github.com/viren-joshi/MomentReely",
-                            "image" : "momentreely.png"
-                        }
-                    ]
-                }
-            ]
-        }, 
-        {
             "name" : "Programming Languages",
             "data" : [
                 {
@@ -146,18 +43,19 @@
                     ],
                     "projects" : [
                         {
-                            "name" : "param-linter",
-                            "link" : "https://github.com/viren-joshi/ParamLinter",
-                            "image" : "param-linter.png"
-                        },
-                        {
-                            "name" : "deep learning based automated question generation",
-                            "image" : "automated-question.png"
-                        },
-                        {
                             "name" : "momentreely",
                             "link" : "https://github.com/viren-joshi/MomentReely",
                             "image" : "momentreely.png"
+                        },
+                        {
+                            "name" : "deep learning based automated question generation",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image" : "automated-question.png"
+                        },
+                        {
+                            "name" : "param-linter",
+                            "link" : "https://github.com/viren-joshi/ParamLinter",
+                            "image" : "param-linter.png"
                         }
                     ]
                 },
@@ -214,18 +112,26 @@
                         {
                             "name" : "springboot",
                             "image" : "springboot.png"
+                        },
+                        {
+                            "name" : "junit",
+                            "image": "junit-icon.png"
+                        },
+                        {
+                            "name" : "jacoco",
+                            "image": "jacoco-icon.png"
                         }
                     ],
                     "projects" : [
                         {
-                            "name" : "vax-note",
-                            "link" : "https://github.com/viren-joshi/VaxNote",
-                            "image" : "injection.png"
-                        },
-                        {
                             "name" : "Software Vizualizer - SoftViz",
                             "link" : "https://github.com/viren-joshi/software-visualizer",
                             "image" : "soft-viz-light.png"
+                        },
+                        {
+                            "name" : "vax-note",
+                            "link" : "https://github.com/viren-joshi/VaxNote",
+                            "image" : "injection.png"
                         }
                     ]
                 },
@@ -241,12 +147,288 @@
                             "image" : "injection.png"
                         }
                     ]
+                },
+                {
+                    "text" : "javascript",
+                    "image" : "javascript.png",
+                    "since" : 2020,
+                    "projects" : [
+                        {
+                            "name" : "DocuFlow",
+                            "link" : "https://github.com/viren-joshi/DocuFlow",
+                            "image" : "docuflow-icon.png"
+                        },
+                        {
+                            "name" : "automated question generation system",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image" : "automated-question.png"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name" : "Cloud",
+            "name" : "Mobile Development",
             "data" : [
+                {
+                    "text" : "flutter",
+                    "image" : "flutter-icon.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "dart",
+                            "image" : "dart-light.png",
+                            "link" : "https://dart.dev/"
+                        },
+                        {
+                            "name" : "provider package",
+                            "link" : "https://pub.dev/packages/provider",
+                            "image" : "flutter-light.png"
+                        },
+                        {
+                            "name" : "flutter-firebase",
+                            "image" : "firebase-icon.png"
+                        },
+                        {
+                            "name" : "google maps and other apis",
+                            "image" : "google-icon.png"
+                        },
+                        {
+                            "name" : "get-x library",
+                            "link" : "https://pub.dev/packages/get",
+                            "image" : "get-x.png"
+                        },
+                        {
+                            "name" : "bloc architecture",
+                            "image" : "bloc-icon.png",
+                            "link" : "https://pub.dev/packages/flutter_bloc"
+                            
+                        }
+
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "ResuMate",
+                            "link" : "https://github.com/viren-joshi/ResuMate",
+                            "image" : "resumate-icon.png"
+                        },
+                        {
+                            "name" : "plant disease detector",
+                            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
+                            "image" : "plant.png"
+                        },
+                        {
+                            "name" : "student-faculty interaction system",
+                            "link" : "https://github.com/viren-joshi/student-faculty-interaction-system",
+                            "image" : "student-faculty-interaction.png"
+                        },
+                        {
+                            "name" : "nirbhaya : women safety app",
+                            "image" : "safety.png"
+                        },
+                        {
+                            "name" : "plant-it",
+                            "link" : "https://github.com/viren-joshi/plant-it",
+                            "image" : "plant.png"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "android",
+                    "image" : "android.png",
+                    "since" : 2021,
+                    "worked_with" : [
+                        {
+                            "name" : "kotlin",
+                            "image" : "kotlin-light.png"
+                        },
+                        {
+                            "name" : "jetpack compose",
+                            "image" : "jetpack-compose.png"
+                        },
+                        {
+                            "name" : "retrofit",
+                            "image" : "retrofit.png"
+                        },
+                        {
+                            "name" : "java",
+                            "image" : "java.png"
+                        },
+                        {
+                            "name" : "volley library",
+                            "image" : "volley-library.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "momentreely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        },
+                        {
+                            "name" : "vax-note",
+                            "link" : "https://github.com/viren-joshi/VaxNote",
+                            "image" : "injection.png"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Artificial Intelligence - ML & DL",
+            "data": [
+                {
+                    "text": "py-torch",
+                    "image": "py-torch.png",
+                    "since": 2023,
+                    "description": "Employed PyTorch for building and training deep learning models for various AI applications.",
+                    "projects": [
+                        {
+                            "name": "deep learning based automated question generation",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image": "automated-question.png"
+                        },
+                        {
+                            "name": "plant disease detector",
+                            "image": "plant-disease-image.png"
+                        },
+                        {
+                            "name": "safety-net: industrial safety system",
+                            "image": "industrial-safety-dark.png"
+                        }
+                    ]
+                },
+                {
+                    "text": "pandas",
+                    "since": 2023,
+                    "image": "pandas.png",
+                    "description" : "Used pandas for data manipulation and analysis in various AI and data science projects.",
+                    "projects": [
+                        {
+                            "name": "Neighbourhood Crime Insights",
+                            "image": "nci-icon.png"
+                        }
+                    ]
+                },
+                {
+                    "text": "numpy",
+                    "since": 2023,
+                    "image": "numpy.png",
+                    "description" : "Used numpy for numerical computing and data manipulation in various AI and data science projects.",
+                    "projects": [
+                        {
+                            "name": "Neighbourhood Crime Insights",
+                            "image": "nci-icon.png"
+                        }
+                    ]
+                },
+                {
+                    "text": "computer vision",
+                    "image": "computer-vision.png",
+                    "since": 2023,
+                    "description": "Utilized various libraries to perform image processing and computer vision tasks.",
+                    "worked_with": [
+                        {
+                            "name": "open-cv",
+                            "image": "opencv.png"
+                        },
+                        {
+                            "name": "yolo",
+                            "image": "yolo.png"
+                        },
+                        {
+                            "name": "segment anything model (sam)",
+                            "image": "meta-icon.png"
+                        }
+                    ],
+                    "projects": [
+                        {
+                            "name": "plant disease detector",
+                            "image": "plant.png"
+                        },
+                        {
+                            "name": "safety-net: industrial safety system",
+                            "image": "industrial-safety-dark.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Databases",
+            "data": [
+                {
+                    "text": "MySQL",
+                    "image": "mysql.png",
+                    "since" : 2021,
+                    "description": "Used MySQL for relational database management and data storage in various applications.",
+                    "worked_with": [
+                        {
+                            "name": "phpmyadmin",
+                            "image": "phpmyadmin-icon.png"
+                        },
+                        {
+                            "name": "mysql workbench",
+                            "image": "mysqlworkbench.png"
+                        }
+                    ],
+                    "projects": [
+                        {
+                            "name" : "vax-note",
+                            "link" : "https://github.com/viren-joshi/VaxNote",
+                            "image" : "injection.png"
+                        },
+                        {
+                            "name": "student-faculty interaction system",
+                            "link": "https://github.com/viren-joshi/student-faculty-interaction-system",
+                            "image": "student-faculty-interaction.png"
+                        }
+                    ]
+                },
+                {
+                    "text": "postgreSQL",
+                    "image": "postgresql-icon.png",
+                    "since": 2024,
+                    "description": "Used PostgreSQL for advanced relational database management and data storage in various applications including vector databases.",
+                    "worked_with": [
+                        {
+                            "name": "pgadmin",
+                            "image": "postgresql-icon.png"
+                        }
+                    ],
+                    "projects": [
+                        {
+                            "name": "ResuMate",
+                            "link": "https://github.com/viren-joshi/ResuMate",
+                            "image": "resumate-icon.png"
+                        },
+                        {
+                            "name": "QuestGen: automated question generation system",
+                            "image": "automated-question.png",
+                            "link" : "https://github.com/viren-joshi/somaiya-qgen"
+                        }
+                    ]
+                },
+                {
+                    "text": "mongoDB",
+                    "image": "mongodb-icon.png",
+                    "since": 2023,
+                    "description": "Used MongoDB for NoSQL database management and data storage in various applications."
+                        
+                },
+                {
+                    "text": "Pinecone",
+                    "image": "pinecone-icon.png",
+                    "since": 2025,
+                    "description": "Used Pinecone for vector database management and similarity search in AI applications.",
+                    "projects": [
+                        {
+                            "name": "ResuMate",
+                            "image": "resumate-icon.png"
+                        }
+                    ]
+                },
                 {
                     "text" : "firebase",
                     "image" : "firebase-icon.png",
@@ -259,9 +441,18 @@
                         {
                             "name" : "realtime database",
                             "image" : "realtime-database.png"
+                        },
+                        {
+                            "name": "firebase cloud messaging (FCM)",
+                            "image": "fcm-icon.png"
                         }
                     ],
                     "projects" : [
+                        {
+                            "name" : "momentreely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        },
                         {
                             "name" : "plant disease detector",
                             "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
@@ -284,31 +475,49 @@
                     ]
                 },
                 {
-                    "text" : "digital ocean",
-                    "image" : "digital-ocean.png",
-                    "since" : 2024,
-                    "description" : "Managed virtual machines and cloud services on Digital Ocean for hosting application and services.",
-                    "projects" : [
+                    "text": "dynamoDB",
+                    "image": "aws-dynamo-db.png",
+                    "since": 2025,
+                    "description": "Used DynamoDB for NoSQL database management and data storage in cloud-native applications.",
+                    "projects": [
                         {
-                            "name" : "malware minder",
-                            "link" : "",
-                            "image" : "malware-minder.png"
+                            "name" : "DocuFlow",
+                            "link" : "https://github.com/viren-joshi/DocuFlow",
+                            "image" : "docuflow-icon.png"
+                        },
+                        {
+                            "name" : "ResuMate",
+                            "link" : "https://github.com/viren-joshi/ResuMate",
+                            "image" : "resumate-icon.png"
+                        },
+                        {
+                            "name" : "MomentReely",
+                            "link" : "https://github.com/viren-joshi/MomentReely",
+                            "image" : "momentreely.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "Cloud & DevOps",
+            "data" : [
+                {
+                    "text" : "git",
+                    "image" : "git-icon.png",
+                    "description" : "Used git for version control and collaboration on all projects.",
+                    "since" : 2020,
+                    "worked_with" : [
+                        {
+                            "name" : "github",
+                            "image" : "github-logo-white.png"
+                        },
+                        {
+                            "name" : "gitlab",
+                            "image" : "gitlab-icon.png"
                         }
                     ]
                 },
-                {
-                    "text" : "docker",
-                    "image" : "docker-mark-blue.png",
-                    "since" : 2024,
-                    "description" : "Used docker for containerization of applications and services for deployment and testing.",
-                    "projects" : [
-                        {
-                            "name" : "malware minder",
-                            "link" : "",
-                            "image" : "malware-minder.png"
-                        }
-                    ]
-                }, 
                 {
                     "text" : "aws",
                     "image" : "aws.png",
@@ -342,13 +551,87 @@
                         {
                             "name" : "aws sns",
                             "image" : "aws-sns.png"
-                        }   
+                        },
+                        {
+                            "name" : "step function",
+                            "image" : "aws-step-function.png"
+                        },
+                        {
+                            "name" : "aws cloudwatch",
+                            "image" : "aws-cloudwatch.png"
+                        },
+                        {
+                            "name" : "aws api gateway",
+                            "image" : "aws-api-gateway.png"
+                        },
+                        {
+                            "name" : "sagemaker ai",
+                            "image" : "aws-sagemaker.png"
+                        },
+                        {
+                            "name": "amazon cognito",
+                            "image": "aws-cognito.png"
+                        },
+                        {
+                            "name": "sqs",
+                            "image": "aws-sqs.png"
+                        }
                     ],
                     "projects" : [
                         {
-                            "name" : "momentreely",
+                            "name" : "DocuFlow",
+                            "link" : "https://github.com/viren-joshi/DocuFlow",
+                            "image" : "docuflow-icon.png"
+                        },
+                        {
+                            "name" : "ResuMate",
+                            "link" : "https://github.com/viren-joshi/ResuMate",
+                            "image" : "resumate-icon.png"
+                        },
+                        {
+                            "name" : "MomentReely",
                             "link" : "https://github.com/viren-joshi/MomentReely",
                             "image" : "momentreely.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "terraform",
+                    "image" : "terraform-icon.png",
+                    "since" : 2025,
+                    "description" : "Used terraform for infrastructure as code (IaC) to manage cloud resources and services.",
+                    "worked_with" : [
+                        {
+                            "name" : "aws",
+                            "image" : "aws.png"
+                        },
+                        {
+                            "name" : "gcp",
+                            "image" : "gcp.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "DocuFlow",
+                            "link" : "https://github.com/viren-joshi/DocuFlow",
+                            "image" : "docuflow-icon.png"
+                        },
+                        {
+                            "name" : "ResuMate",
+                            "link" : "https://github.com/viren-joshi/ResuMate",
+                            "image" : "resumate-icon.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "pulumi",
+                    "image" : "pulumi.png",
+                    "since" : 2025,
+                    "description" : "Used Pulumi for infrastructure as code (IaC) to manage cloud resources and services.",
+                    "worked_with" : [
+                        {
+                            "name" : "aws",
+                            "image" : "aws.png"
                         }
                     ]
                 },
@@ -357,11 +640,208 @@
                     "image" : "kubernetes.png",
                     "since" : 2025,
                     "description" : "Used kubernetes for container orchestration and management of applications and services."
+                },
+                {
+                    "text" : "docker",
+                    "image" : "docker-mark-blue.png",
+                    "since" : 2024,
+                    "description" : "Used docker for containerization of applications and services for deployment and testing.",
+                    "projects" : [
+                        {
+                            "name" : "malware minder",
+                            "link" : "",
+                            "image" : "malware-minder.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "ci/cd",
+                    "image" : "ci-cd-icon.png",
+                    "since" : 2024,
+                    "description" : "Used CI/CD tools for continuous integration and deployment of applications and services.",
+                    "worked_with" : [
+                        {
+                            "name" : "github actions",
+                            "image" : "github-logo-white.png"
+                        },
+                        {
+                            "name" : "gitlab ci",
+                            "image" : "gitlab-icon.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "Software Vizualizer - SoftViz",
+                            "link" : "https://github.com/viren-joshi/software-visualizer",
+                            "image" : "soft-viz-light.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "digital ocean",
+                    "image" : "digital-ocean.png",
+                    "since" : 2024,
+                    "description" : "Managed virtual machines and cloud services on Digital Ocean for hosting application and services.",
+                    "projects" : [
+                        {
+                            "name" : "malware minder",
+                            "link" : "",
+                            "image" : "malware-minder.png"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name" : "Security",
+            "name": "Backend Development",
+            "data": [
+                {
+                    "text": "springboot",
+                    "image": "springboot.png",
+                    "since": 2024,
+                    "worked_with": [
+                        {
+                            "name": "java",
+                            "image": "java.png"
+                        },
+                        {
+                            "name": "mysql",
+                            "image": "mysql.png"
+                        }
+                    ],
+                    "projects": [
+                        {
+                            "name": "Software Vizualizer - SoftViz",
+                            "link": "https://github.com/viren-joshi/software-visualizer",
+                            "image": "soft-viz-light.png"
+                        }
+                    ]
+                },
+                {
+                    "text": "flask",
+                    "image": "flask-dark.png",
+                    "since": 2021,
+                    "worked_with": [
+                        {
+                            "name": "python",
+                            "image": "python.png"
+                        }
+                    ],
+                    "projects": [
+                        {
+                            "name": "momentreely",
+                            "link": "https://github.com/viren-joshi/MomentReely",
+                            "image": "momentreely.png"
+                        },
+                        {
+                            "name": "QuestGen: automated question generation system",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image" : "automated-question.png"
+                        },
+                        {
+                            "name": "plant disease detector application",
+                            "link": "https://github.com/viren-joshi/PlantDiseaseDetector",
+                            "image": "plant-disease-image.png"
+                        },
+                        {
+                            "name": "student-faculty interaction system",
+                            "link": "https://github.com/viren-joshi/student-faculty-interaction-system",
+                            "image": "student-faculty-interaction.png"
+                        },
+                        {
+                            "name": "safety-net: industrial safety system",
+                            "link": "https://github.com/viren-joshi/Safety-Net",
+                            "image": "industrial-safety-dark.png"
+                        }
+                    ]
+
+                }
+            ]
+        },
+        {
+            "name" : "Web Development",
+            "data" : [
+                {
+                    "text" : "html",
+                    "image" : "html.png",
+                    "since" : 2018,
+                    "worked_with" : [
+                        {
+                            "name" : "bootstrap",
+                            "image" : "bootstrap.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "automated question generation system",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image" : "automated-question.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "css",
+                    "image" : "css.png",
+                    "since" : 2018,
+                    "worked_with" : [
+                        {
+                            "name" : "bootstrap",
+                            "image" : "bootstrap.png"
+                        }
+                    ],
+                    "projects" : [
+                        {
+                            "name" : "automated question generation system",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image" : "automated-question.png"
+                        }
+                    ]
+                },
+                {
+                    "text" : "react",
+                    "image" : "react.png",
+                    "since" : 2023,
+                    "worked_with" :[
+                        {
+                            "name" : "react flow",
+                            "image" : "react-flow.png"
+                        },
+                        {
+                            "name" : "axios",
+                            "image" : "axios.png"
+                        },
+                        {
+                            "name" : "vite",
+                            "image" : "vite.png"
+                        }
+                    ],
+                    "projects" :[
+                        {
+                            "name": "DocuFlow",
+                            "link": "https://github.com/viren-joshi/DocuFlow",
+                            "image": "docuflow-icon.png"
+                        },
+                        {
+                            "name" : "automated question generation system",
+                            "link": "https://github.com/viren-joshi/somaiya-qgen",
+                            "image" : "automated-question.png"
+                        },
+                        {
+                            "name" : "industrial safety system",
+                            "link" : "https://github.com/viren-joshi/Safety-Net",
+                            "image" : "industrial-safety-dark.png"
+                        },
+                        {
+                            "name" : "Software Vizualizer - SoftViz",
+                            "link" : "https://github.com/viren-joshi/software-visualizer",
+                            "image" : "soft-viz-light.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "Cyber Security Tools",
             "data" : [
                 {
                     "text" : "linux",
@@ -410,90 +890,45 @@
                 }
                 
             ]
-        },
-        {
-            "name" : "Web Development",
-            "data" : [
-                {
-                    "text" : "html",
-                    "image" : "html.png",
-                    "since" : 2018,
-                    "worked_with" : [
-                        {
-                            "name" : "bootstrap",
-                            "image" : "bootstrap.png"
-                        }
-                    ],
-                    "projects" : [
-                        {
-                            "name" : "automated question generation system",
-                            "image" : "automated-question.png"
-                        }
-                    ]
-                },
-                {
-                    "text" : "css",
-                    "image" : "css.png",
-                    "since" : 2018,
-                    "worked_with" : [
-                        {
-                            "name" : "bootstrap",
-                            "image" : "bootstrap.png"
-                        }
-                    ],
-                    "projects" : [
-                        {
-                            "name" : "automated question generation system",
-                            "image" : "automated-question.png"
-                        }
-                    ]
-                },
-                {
-                    "text" : "javascript",
-                    "image" : "javascript.png",
-                    "since" : 2020,
-                    "projects" : [
-                        {
-                            "name" : "automated question generation system",
-                            "image" : "automated-question.png"
-                        }
-                    ]
-                },
-                {
-                    "text" : "react",
-                    "image" : "react.png",
-                    "since" : 2023,
-                    "worked_with" :[
-                        {
-                            "name" : "react flowsss",
-                            "image" : "react-flow.png"
-                        },
-                        {
-                            "name" : "axios",
-                            "image" : "axios.png"
-                        }
-                    ],
-                    "projects" :[
-                        {
-                            "name" : "automated question generation system",
-                            "image" : "automated-question.png"
-                        },
-                        {
-                            "name" : "industrial safety system",
-                            "link" : "https://github.com/viren-joshi/Safety-Net",
-                            "image" : "industrial-safety-dark.png"
-                        },
-                        {
-                            "name" : "Software Vizualizer - SoftViz",
-                            "link" : "https://github.com/viren-joshi/software-visualizer",
-                            "image" : "soft-viz-light.png"
-                        }
-                    ]
-                }
-            ]
         }
     ],
     "experience" : [
+        {
+            "date": "Sept 2025 - Present",
+            "title": "Computer Vision Intern",
+            "organization": "DeepSense - Robonotic",
+            "location": "Halifax, Nova Scotia, Canada",
+            "skills": [
+                {
+                    "name": "python",
+                    "image": "python.png"
+                },
+                {
+                    "name": "open-cv",
+                    "image": "opencv.png"
+                },
+                {
+                    "name": "aws-sagemaker",
+                    "image": "aws-sagemaker.png"
+                },
+                {
+                    "name": "yolo",
+                    "image": "yolo.png"
+                },
+                {
+                    "name": "deep-learning",
+                    "image": "deep-learning.png"
+                }
+            ],
+            "description": [
+                "Fine-tuned a deep learning model to detect invasive freshwater species, achieving 90%+ mAP",
+                "Engineered automated data ingestion and preprocessing pipelines for large-scale image datasets, optimizing, training data quality and reducing manual effort",
+                "Designed and executed 10+ structured experiments, driving measurable gains in model robustness and accuracy",
+                "Collaborated with stakeholders to translate product expectations into feasible ML solutions, proposing improvements to model design and workflow efficiency",
+                "Prototyped real-time inference workflows on hardware-constrained devices to test feasibility of deploying physical AI systems",
+                "Created a roadmap to automate the ML pipeline; covering annotation, training, and deployment, to accelerate future model development"
+            ]
+        },
         {
             "date": "Dec 2022 - Feb 2023",
             "title": "Software Developer Intern",
@@ -646,39 +1081,60 @@
     ],
     "projects" : [
         {
-            "name" : "vax-note",
-            "link" : "https://github.com/viren-joshi/VaxNote",
-            "image" : "injection-dark.png",
-            "timeline" : "September 2021 - November 2021",
-            "description" : "A vaccination management system that allows users to store and manage their vaccination records digitally. The system also provides users with reminders for upcoming vaccinations and appointments. The system was developed using PHP and MySQL for backend services and Android (Java) for the front-end application."
+            "name" : "DocuFlow",
+            "link" : "https://github.com/viren-joshi/DocuFlow",
+            "image" : "docuflow-icon.png",
+            "timeline" : "June 2025 - July 2025",
+            "description" : "DocuFlow is a fully serverless, cloud-native document approval system built on AWS. It streamlines document submissions, multi-level approvals, notifications, and version control for internal enterprise workflows. The system aims to be lightweight, scalable, and cost-efficient, making it ideal for organizations seeking automated and auditable document lifecycle management without managing servers or complex infrastructure."
         },
         {
-            "name" : "student-faculty interaction system",
-            "link" : "https://github.com/viren-joshi/student-faculty-interaction-system",
-            "image" : "student-faculty-interaction-dark.png",
-            "timeline" : "January 2022 - March 2021",
-            "description" : "A mobile application that facilitates communication between students and faculty members. The application allows students to ask questions and get annoucements from faculty members. The application was developed using Flutter and Firebase for backend services." 
+            "name" : "ResuMate",
+            "link" : "https://github.com/viren-joshi/ResuMate",
+            "image" : "resumate-icon.png",
+            "timeline" : "May 2025 - June 2025",
+            "description" : "ResuMate is a cloud-based AI-powered web application that assists job seekers in creating personalized cover letters tailored to specific job descriptions. It streamlines the application process by combining user resume data with job postings to generate highly relevant, professional cover letters."
         },
         {
-            "name" : "plant disease detector application",
-            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
-            "image" : "plant-disease-image.png",
-            "timeline" : "March 2023",
-            "description" : "Developed an Android app that identifies plant diseases from leaf images. Users receive disease diagnosis, remedies, and preventive measures. Leveraged Flutter for the front-end, Python for AI-ML models and APIs, and Firebase for image storage."
+            "name": "Neighbourhood Crime Insights",
+            "link": "https://github.com/viren-joshi/nci",
+            "image": "nci-icon.png",
+            "timeline": "January 2025 - April 2025",
+            "description": "Neighbourhood Crime Insights (NCI) is a data-driven project that explores the spatial and socio-economic patterns of crime in Nova Scotia. Using unsupervised clustering techniques, particularly HDBSCAN, this system analyzes over 24,000 records of crime reports combined with demographic data from the 2016 and 2021 Canada Census to detect high-risk regions and derive community-level insights."
         },
         {
-            "name" : "automated question generation system",
+            "name" : "MomentReely",
+            "link" : "https://github.com/viren-joshi/MomentReely",
+            "image" : "momentreely.png",
+            "timeline" : "January 2025 - April 2025",
+            "description" : "It is a photo-sharing application designed to foster personal connections through visual storytelling. It enables users to create accounts, connect with friends, and share photos seamlessly within the platform. The resoning behind this project was not to create a photo sharing application, but rather learn AWS Cloud & Kotlin Mobile Application Development."
+        },
+        {
+            "name": "Software Vizualizer - SoftViz",
+            "link": "https://github.com/viren-joshi/software-visualizer",
+            "image": "soft-viz.png",
+            "timeline": "October 2024 - December 2024",
+            "description": "A tool that identifies class-level dependencies in JAR files (via inheritance, implementation, and composition) and generates interactive visualizations of software structures. Supports project management by letting users save, reload, and modify dependency analyses for iterative evaluation."
+        },
+        {
+            "name" : "MalwareMinder",
             "link" : "",
-            "image" : "automated-question-dark.png",
-            "timeline" : "July 2022 - April 2023",
-            "description" : "Developed a web application that generates questions automatically from text. The system employs Google's T5 model algorithms to generate questions and answers. The system was developed using HTML, CSS, JavaScript, Python, and Flask."
+            "image" : "malware-minder.png",
+            "timeline" : "January 2024 - April 2024",
+            "description" : "A malware detection system for android OS, created using machine learning algorithms. It implements ensemble learning to improve accuracy and reduce false positives. The system was developed using Python and Flutter along with cloud services using Digital Ocean."
+        }, 
+        {
+            "name" : "SafetyNet: Industrial Safety System",
+            "link" : "https://github.com/viren-joshi/Safety-Net",
+            "image" : "industrial-safety-dark.png",
+            "timeline" : "August 2023 - October 2023",
+            "description" : "An IOT based safety system that monitors the safety of workers in an industrial environment. The system uses sensors to detect hazardous conditions and alerts the workers and the management. The system was developed using React, Python and Firebase."
         },
         {
-            "name" : "param-linter",
-            "link" : "https://github.com/viren-joshi/ParamLinter",
-            "image" : "coding.png",
-            "timeline" : "Spetember 2022 - November 2022",
-            "description" : "An customized automation tool that allows web-application penetration testers to filter and enumerate website endpoints and the respective query parameters as per their requirement. It was developed using Python and Selenium."
+            "name" : "nirbhaya : women safety app",
+            "link" : "",
+            "image": "nirbhaya.png",
+            "timeline" : "April 2023 - July 2023",
+            "description" : "a platform that is designed to help women travel safely and with confidence, by providing a variety of features that promote personal security."
         },
         {
             "name" : "plant-it",
@@ -689,39 +1145,39 @@
             
         },
         {
-            "name" : "nirbhaya : women safety app",
-            "link" : "",
-            "image": "nirbhaya.png",
-            "timeline" : "April 2023 - July 2023",
-            "description" : "a platform that is designed to help women travel safely and with confidence, by providing a variety of features that promote personal security."
+            "name" : "param-linter",
+            "link" : "https://github.com/viren-joshi/ParamLinter",
+            "image" : "coding.png",
+            "timeline" : "Spetember 2022 - November 2022",
+            "description" : "An customized automation tool that allows web-application penetration testers to filter and enumerate website endpoints and the respective query parameters as per their requirement. It was developed using Python and Selenium."
         },
         {
-            "name" : "industrial safety system",
-            "link" : "https://github.com/viren-joshi/Safety-Net",
-            "image" : "industrial-safety-dark.png",
-            "timeline" : "August 2023 - October 2023",
-            "description" : "An IOT based safety system that monitors the safety of workers in an industrial environment. The system uses sensors to detect hazardous conditions and alerts the workers and the management. The system was developed using React, Python and Firebase."
+            "name" : "QuestGen: automated question generation system",
+            "link" : "https://github.com/viren-joshi/somaiya-qgen",
+            "image" : "automated-question-dark.png",
+            "timeline" : "July 2022 - April 2023",
+            "description" : "Developed a web application that generates questions automatically from text. The system employs Google's T5 model algorithms to generate questions and answers. The system was developed using HTML, CSS, JavaScript, Python, and Flask."
         },
         {
-            "name" : "malware minder",
-            "link" : "",
-            "image" : "malware-minder.png",
-            "timeline" : "January 2024 - April 2024",
-            "description" : "A malware detection system for android OS, created using machine learning algorithms. It implements ensemble learning to improve accuracy and reduce false positives. The system was developed using Python and Flutter along with cloud services using Digital Ocean."
-        }, 
-        {
-            "name": "Software Vizualizer - SoftViz",
-            "link": "https://github.com/viren-joshi/software-visualizer",
-            "image": "soft-viz.png",
-            "timeline": "October 2024 - December 2024",
-            "description": "A tool that identifies class-level dependencies in JAR files (via inheritance, implementation, and composition) and generates interactive visualizations of software structures. Supports project management by letting users save, reload, and modify dependency analyses for iterative evaluation."
+            "name" : "plant disease detector application",
+            "link" : "https://github.com/viren-joshi/PlantDiseaseDetector",
+            "image" : "plant-disease-image.png",
+            "timeline" : "March 2023",
+            "description" : "Developed an Android app that identifies plant diseases from leaf images. Users receive disease diagnosis, remedies, and preventive measures. Leveraged Flutter for the front-end, Python for AI-ML models and APIs, and Firebase for image storage."
         },
         {
-            "name" : "MomentReely",
-            "link" : "https://github.com/viren-joshi/MomentReely",
-            "image" : "momentreely.png",
-            "timeline" : "April 2024",
-            "description" : "It is a photo-sharing application designed to foster personal connections through visual storytelling. It enables users to create accounts, connect with friends, and share photos seamlessly within the platform. The resoning behind this project was not to create a photo sharing application, but rather learn AWS Cloud & Kotlin Mobile Application Development."
+            "name" : "student-faculty interaction system",
+            "link" : "https://github.com/viren-joshi/student-faculty-interaction-system",
+            "image" : "student-faculty-interaction-dark.png",
+            "timeline" : "January 2022 - March 2021",
+            "description" : "A mobile application that facilitates communication between students and faculty members. The application allows students to ask questions and get annoucements from faculty members. The application was developed using Flutter and Firebase for backend services." 
+        },
+        {
+            "name" : "VaxNote",
+            "link" : "https://github.com/viren-joshi/VaxNote",
+            "image" : "injection-dark.png",
+            "timeline" : "September 2021 - November 2021",
+            "description" : "A vaccination management system that allows users to store and manage their vaccination records digitally. The system also provides users with reminders for upcoming vaccinations and appointments. The system was developed using PHP and MySQL for backend services and Android (Java) for the front-end application."
         }
     ],
     "certifications" : [
@@ -758,11 +1214,11 @@
     ],
     "education" : [
         {
-            "degree": "Masters in Applied Computer Science (MACS)",
+            "degree": "Master of Applied Computer Science (MACS)",
             "branch": "Faculty of Computer Science",
             "institution": "Dalhousie University",
             "location": "Halifax, Nova Scotia",
-            "year": "2024 - 2026"
+            "year": "Sept 2024 - Dec 2025"
         },
         {
             "degree" : "Bachelor of Technology (B.Tech)",
